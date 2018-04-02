@@ -1,6 +1,5 @@
 // Remember to fill in your name and student ID below.
 char *yourName = "Nikita Patel";
-char *yourStudentID = "34811375";
 
 
 // Part1) This function takes in a square sized grayscale image and applies thresholding on each pixel.
